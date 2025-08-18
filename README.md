@@ -5,14 +5,12 @@
 **Schedule:** Tuesdays & Fridays | 8:00 PM – 9:00 PM  
 **Duration:** 8 Weeks | 16 Sessions | 48 Hours  
 
----
 
 ## 📌 Program Format (Per Session)
 - **10 min** → Recap / Context  
 - **30 min** → Concept Delivery + Demo  
 - **10 min** → Q&A / Guided Self-Learning  
 
----
 
 ## 📅 Program Roadmap  
 
@@ -29,7 +27,6 @@
 - Tasks: Explore `/etc`, `/var`, run `ls`, `chmod`, write `hello.sh`  
 - Resources: [Linux Journey](https://linuxjourney.com), [Shell Scripting Basics](https://www.geeksforgeeks.org/introduction-to-shell-scripting/)  
 
----
 
 ### Week 2 – Advanced Linux + Git Basics  
 **Tuesday**  
@@ -43,7 +40,6 @@
 - Tasks: Initialize repo, commit changes, create branches  
 - Resources: [Pro Git Book](https://git-scm.com/book/en/v2)  
 
----
 
 ### Week 3 – Git Workflows + Docker Intro  
 **Tuesday**  
@@ -55,38 +51,32 @@
 - Tasks: Run hello-world, pull image, exec into container  
 - Resources: [Docker Playground](https://labs.play-with-docker.com)  
 
----
 
 ### Week 4 – Docker Deep Dive  
 **Tuesday**: Dockerfile, Build & Push Images  
 **Friday**: Docker Compose, Multi-Container Apps  
 
----
 
 ### Week 5 – Kubernetes Essentials  
 **Tuesday**: Pods, ReplicaSets (Minikube)  
 **Friday**: Services, ConfigMaps, Secrets  
 
----
 
 ### Week 6 – CI/CD Pipelines  
 **Tuesday**: CI with Azure DevOps + GitHub Actions  
 **Friday**: CD Deployments to Azure, Monitoring  
 
----
 
 ### Week 7 – Azure Cloud + Terraform Basics  
 **Tuesday**: Azure Core Services, AKS, CLI  
 **Friday**: Terraform Providers, State, Infra Deployments  
 
----
 
 ### Week 8 – Serverless & Final Project  
 **Tuesday & Friday**  
 - Final Project Launch (Capstone)  
 - AZ-204 Certification Prep + Mock Exam  
 
----
 
 ## 🏆 Capstone Projects
 1. **MS Sentinel + Cloud Security**  
@@ -96,14 +86,12 @@
 2. **EntraOps (Enterprise Identity Model)**  
    - Automate access controls using GitHub + Azure  
 
----
 
 ## 🎯 Certification Focus: AZ-204  
 - Weekly prep included  
 - Hands-on labs + MS Learn modules  
 - Mock exam in Week 8  
 
----
 
 ## 🔗 Resources  
 
@@ -138,4 +126,3 @@
 ### Certification  
 - [AZ-204 Exam Guide](https://learn.microsoft.com/en-us/certifications/exams/az-204/)  
 
----
