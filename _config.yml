@@ -1,7 +1,18 @@
+# Site settings
+title: "Hira Jabeen – Microtechx"
+description: "Practice Lead – Core Engineering @ Microtechx | DevOps Engineer | Mentor in Tech"
 theme: jekyll-theme-cayman
-# theme: jekyll-theme-minimal
-# theme: jekyll-theme-slate
+url: "https://microtechx-gmbh.github.io"
+baseurl: "/hira-rajput-blog"
 
+# Author info
+author:
+  name: "Hira Jabeen"
+  email: "hirajabeenbhatti@gmail.com"
+  linkedin: "https://www.linkedin.com/in/hira-rajputdeveloper/"
+  github: "https://github.com/hirajabeen"
 
-title: DevOps Internship Program
-description: Microtechx - Enabling Engineers in Dev & DevOps
+# Plugins (optional, adds SEO + RSS feed)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
