@@ -5,16 +5,12 @@ Practice Lead – Core Engineering @ Microtechx | Platform Engineer @ Pack
 📍 Lahore, Punjab, Pakistan  
 📧 [hirajabeenbhatti@gmail.com](mailto:hirajabeenbhatti@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/hira-rajputdeveloper/)  
 
----
-
 ## 🌟 About Me  
 This lady codes with clarity, builds with intent, and vibes with growth!  
 
 I’m **Hira Jabeen** — a software engineer turned **DevOps leader**, passionate about designing **cloud-first, secure, and scalable systems**.  
 At **Microtechx**, I lead Core Engineering, mentor engineers, and deliver future-ready platforms.  
 At **Pack**, I engineer seamless platforms with automation and scalability at heart.  
-
----
 
 ## 💼 Experience  
 - **Practice Lead – Core Engineering | Microtechx (2025–Present)**  
@@ -29,14 +25,11 @@ At **Pack**, I engineer seamless platforms with automation and scalability at he
 - **React Developer | Erstech (2023)**  
    Built scalable front-end solutions with ReactJS.  
 
----
 
 ## 🛠 Skills  
 **DevOps & Cloud**: Azure, AWS, Kubernetes, Terraform, Docker  
 **Programming**: JavaScript, React, Node.js, Python, Bash  
 **Soft Skills**: Mentorship, Leadership, System Design, Problem Solving  
-
----
 
 ## 📜 Certifications  
 - HTML & CSS (Basics)  
