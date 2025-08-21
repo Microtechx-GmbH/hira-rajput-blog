@@ -1,7 +1,7 @@
 <!-- Hero Banner -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.freepik.com/free-vector/gradient-abstract-banner-with-wavy-shapes_23-2149120356.jpg" alt="Hero Banner" width="100%">
-</p>
+</p> -->
 
 <!-- Profile Image (Your own image) -->
 <p align="center">
@@ -12,8 +12,8 @@
 **Practice Lead – Core Engineering @ Microtechx | Platform Engineer @ Pack**  
 Architecting Seamless Cloud Journeys | Leading with Code | Automating for Impact  
 
-Lahore, Punjab, Pakistan  
- [hirajabeenbhatti@gmail.com](mailto:hirajabeenbhatti@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/hira-rajputdeveloper/)  
+📍 Lahore, Punjab, Pakistan
+📧[hirajabeenbhatti@gmail.com](mailto:hirajabeenbhatti@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/hira-rajputdeveloper/)  
 
 
 
