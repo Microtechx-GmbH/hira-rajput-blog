@@ -5,7 +5,7 @@
 
 <!-- 👩 Profile Image -->
 <p align="center">
-  <img src="/assets/images/Profile-Photo.png" alt="Hira Jabeen" width="200" style="border-radius:50%; box-shadow:0px 4px 12px rgba(0,0,0,0.2)">
+  <img src="/assets/images/linkedin-profile.png" alt="Hira Jabeen" width="200" style="border-radius:50%; box-shadow:0px 4px 12px rgba(0,0,0,0.2)">
 </p>
 
 # 👩‍💻 Hira Jabeen  
